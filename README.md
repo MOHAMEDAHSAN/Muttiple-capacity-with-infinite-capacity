@@ -20,6 +20,9 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Experiment:
+![Uploading ex5_1.png…]()
+
+![ex5_2](https://github.com/MOHAMEDAHSAN/Muttiple-capacity-with-infinite-capacity/assets/139331378/a8b0ceb4-aa6b-4f27-8289-01fffcd896dc)
 
 ## Program:
 ```python
@@ -61,6 +64,7 @@ print("--------------------------------------------------------------")
 
 
 ## Output :
+![ex5_3](https://github.com/MOHAMEDAHSAN/Muttiple-capacity-with-infinite-capacity/assets/139331378/ac0f5c6b-2fda-44eb-a1b8-cc90f60a50cc)
 
 ## Result : 
 Thus the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully.

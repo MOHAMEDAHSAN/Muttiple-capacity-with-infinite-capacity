@@ -20,8 +20,7 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Experiment:
-![ex1](11.png)
-![ex2](12.png)
+
 ## Program:
 ```python
 # Developed By : S Mohamed Ahsan
